@@ -1,8 +1,6 @@
 ## Who is Eoin O'Sullivan?
 Junior Full Stack Developer
 
-[Projects](#What Projects am I most proud of?) | [Skills](#What sweet skills do I have?) |  | [Experience](#What did I do before I became a Devloper?) | [Hobbies and Interests](#What other stuff i do?) 
-
 After four successful years working in video production, I wanted a new challenge, and pursuing my interest in software has been the best decision of my life. I graduated Makers Academy in September 2017, and am now looking forward to join an innovative team of brilliant developers where I can apply my new knowledge of web development while I learn all that I can. 
 
 ## What Projects am I most proud of?
@@ -23,13 +21,7 @@ My experience in Makers has convinced me that new syntax and frame works can be 
 A large part of my motivation for changing my career was to challenge myself and learn something new. The learning curve at Makers was steep (just the way I like it) and three programming languages, four web frame-works, numerous testing frame-works and a philosophy for code craftsmanship and team work later and I can report that I have barely whet my appetite.
 
 #### Philosophy
-Agile was a completely new concept to me starting Makers - I am a new convert. Its efficacy was made clear to me during numerous team projects where we created web applications very quickly and easily. There are many aspects to Agile that I could rave about but what I am most impressed with the way it simultaneously addresses issues at multiple levels of abstraction, from the individual, team, the clients role, communication and company. Its clear from the small taste I have had that adopting this philosophy at any of the levels will positively impact performance but together the benefits are far more than the sum of there parts. I want to work in a company that believes in and implements these methodologies.	
-
-#### Communication
-Years of working as a script and storyboard artist for an explainer video company has honed my ability to compressing complex concepts into concise and entertaining videos and presentations. The lessons I learned about writing and storytelling are so important for clear and engaging communication in any medium.
-
-#### People Person
-I am an outgoing and friendly person who is very interested in other people. I quickly establish professional and jovial relationships with clients and co-workers. Don't belive me? Why not get in touch and see for yourself.
+Agile was a completely new concept to me starting Makers - I am a new convert. Its efficacy was obvious during numerous team projects where we created web applications very quickly and easily. There are many aspects to Agile that I could rave about but what I am most impressed with the way it simultaneously addresses issues at multiple levels of abstraction, from the individual, team, the clients role, communication and company. Its clear from the small taste I have had that adopting this philosophy at any of the levels will positively impact performance but together the benefits are far more than the sum of there parts. I want to work in a company that believes in and implements these methodologies.	
 
 ## What did I do before I became a Devloper?
 
