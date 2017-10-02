@@ -1,18 +1,21 @@
-## Who is Eoin O'Sullivan?
+# Eoin O'Sullivan
 Junior Full Stack Developer
 
-After four successful years working in video production, I wanted a new challenge, and pursuing my interest in software has been the best decision of my life. I graduated Makers Academy in September 2017, and am now looking forward to join an innovative team of brilliant developers where I can apply my new knowledge of web development while I learn all that I can. 
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+
+After four successful years working in video production, I wanted a new challenge, and pursuing my interest in software has been the best decision of my life. I graduated Makers Academy in September 2017, and am now looking forward to joining an innovative team of brilliant developers where I can apply my new knowledge of web development while I learn all that I can. 
 
 ## What Projects am I most proud of?
 For a complete list, see my [GitHub](https://github.com/EOSullivanBerlin?tab=repositories).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Commandos](https://github.com/EOSullivanBerlin/commandos) | Commandos is a bash tool for developers. Users can us the terminal as normal while reciving usfull tips related to the commands they type. | Ruby, Shell, RSpec, Aruba |
+| [Commandos](https://github.com/EOSullivanBerlin/commandos) | A bash tool for developers. Users can us the terminal as normal while reciving usfull tips related to the commands they type. | Ruby, Shell, RSpec, Aruba |
+|[Evil Notes](https://github.com/EOSullivanBerlin/notes-app)| A single page web app that allows a user to make notes. No libraries were used and we created our own testing framwork. | Javascript, Jasmine|
+|[Acebook](https://github.com/EOSullivanBerlin/acebook-remote-july-2017)| A group project to clone Facebook. It was a great demonstration of Agile work flows. | Ruby, Rails, PostgreSQL|
 |[Love Me Tinder](https://github.com/EOSullivanBerlin/love-me-tinder)| A Dating Game. Users try and capture their hearts desires. | Javascript, Jasmine|
-|[Evil Notes](https://github.com/EOSullivanBerlin/notes-app)| A single page web app that allows a user to make notes. No libraries were used. | Javascript, Jasmine|
 
-## What sweet skills do I have?
+## Skills
 
 #### Problem solving
 My experience in Makers has convinced me that new syntax and frame works can be picked up quickly and easily. However, a good programer is distinguished from a bad one by their approach to problem solving. Test Driven Development is my compass when I have a programing problem to solve. I ardently follow the red, green and refactor cycle and when the days work is done I look upon my clean and well tested code with pride.
@@ -23,7 +26,7 @@ A large part of my motivation for changing my career was to challenge myself and
 #### Philosophy
 Agile was a completely new concept to me starting Makers - I am a new convert. Its efficacy was obvious during numerous team projects where we created web applications very quickly and easily. There are many aspects to Agile that I could rave about but what I am most impressed with the way it simultaneously addresses issues at multiple levels of abstraction, from the individual, team, the clients role, communication and company. Its clear from the small taste I have had that adopting this philosophy at any of the levels will positively impact performance but together the benefits are far more than the sum of there parts. I want to work in a company that believes in and implements these methodologies.	
 
-## What did I do before I became a Devloper?
+## Education
 
 #### Makers Academy (July 2017 to September 2017)
 
@@ -45,12 +48,12 @@ A 12-week intensive development bootcamp, emphasizing:
 
 ## Experience
 
-**Simpleshow** (2015 to Present)    
+#### Simpleshow (2015 to Present)    
 *Concepter*  
-working on itereative projects with fast feedback loops was the main  
-**Tuesday Co-working** (2016 to Present)   
+
+#### Tuesday Co-working (2016 to Present)   
 *Manager*  
 
-#### What other stuff i do?
+## Hobbies
 I like to kayak to and camp on the offshore islands of Ireland. 
 I play guitar and vibrate my vocal cords at the same time.
