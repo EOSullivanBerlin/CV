@@ -52,5 +52,3 @@ National University of Ireland Galway (2006 to 2010)
 
 ## Hobbies
 I like to kayak to and camp on the offshore islands of Ireland. 
-
-I play guitar and vibrate my vocal cords at the same time.
