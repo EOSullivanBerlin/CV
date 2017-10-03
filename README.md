@@ -33,11 +33,13 @@ To remedy this I pursued a career in film. I learned a great deal about how to c
 
 ## Education 
 Makers Academy (July 2017 to September 2017)
-A 12-week intensive development bootcamp, emphasising: -Pair-Programming -Test Driven Development -Object Oriented Design
+A 12-week intensive development bootcamp, emphasising: Pair-Programming, Test Driven Development, Object Oriented Design
 * Ruby, Rails, Javascript, Node.js, Angular.js
 * Rspec, Jasmine, Mocha
+
 Salford University (2010 – 2013)
 * Video and sound production(BA) 1.1
+
 National University of Ireland Galway (2006 to 2010)
 * Microbiology, BsE (Hons) 2.1
 
