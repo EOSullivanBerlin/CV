@@ -18,36 +18,25 @@ For a complete list, see my [GitHub](https://github.com/EOSullivanBerlin?tab=rep
 ## Skills
 
 #### Problem solving
-My experience in Makers has convinced me that new syntax and frame works can be picked up quickly and easily. However, a good programer is distinguished from a bad one by their approach to problem solving. Test Driven Development is my compass when I have a programing problem to solve. I ardently follow the red, green and refactor cycle and when the days work is done I look upon my clean and well tested code with pride.
+I am confident that new syntax and frame works can be picked up quickly and easily. However, a good programer is distinguished from a bad one by their approach to problem solving. Test Driven Development is my compass when I have a programing problem to solve. I ardently follow the red, green and refactor cycle and when the days work is done I look upon my clean and well tested code with pride.
 
 #### Quick Study 
 A large part of my motivation for changing my career was to challenge myself and learn something new. The learning curve at Makers was steep (just the way I like it) and three programming languages, four web frame-works, numerous testing frame-works and a philosophy for code craftsmanship and team work later and I can report that I have barely whet my appetite.
 
 #### Philosophy
-Agile was a completely new concept to me starting Makers - I am a new convert. Its efficacy was obvious during numerous team projects where we created web applications very quickly and easily. There are many aspects to Agile that I could rave about but what I am most impressed with the way it simultaneously addresses issues at multiple levels of abstraction, from the individual, team, the clients role, communication and company. Its clear from the small taste I have had that adopting this philosophy at any of the levels will positively impact performance but together the benefits are far more than the sum of there parts. I want to work in a company that believes in and implements these methodologies.	
+Agile was a completely new concept to me starting Makers - I am a new convert. I want to work in a company that believes in and implements these methodologies.	
 
-## Education
+## Why did I become a programer
+I have always been interested in science and technology . At the age of sixteen I won second place for Biology in the BT Irish Young Scientist Award. I designed and conducted a population study of mosquitos in the marshes around my house (I was a strange child). I went on to study Microbiology in University where I had some of the best experiences of my life tinkering with microbe genes. Perhaps it was the way undergraduates are taught but I felt that my creative side was being over-looked. 
 
-#### Makers Academy (July 2017 to September 2017)
+To remedy this I pursued a career in film. I learned a great deal about how to communicate ideas through storytelling. However, over time I realised that I missed the challenge of solving novel problems. Luckily, this Goldilocks tale has a happy ending because I discovered coding which excites both hemispheres of my brain.
 
-A 12-week intensive development bootcamp, emphasizing:
-- Pair-Programming
-- Test Driven Development
-- Object Oriented Design
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
-- PostgreSQL
-
-#### Salford University (2010 – 2013)
-
-- Video and sound production(BA) 1.1
-
-#### National University of Ireland Galway  (2006 to 2010)
-
-- Microbiology, BsE (Hons) 2.1
+## Education 
+A 12-week intensive development bootcamp with Makers Academy
+First Class Honours Video and Sound Production from Salford University 
+Upper Second Class Honours in Microbiology from NUIG
 
 ## Experience
-
 #### Simpleshow (2015 to Present)    
 *Concepter*  
 
@@ -56,4 +45,5 @@ A 12-week intensive development bootcamp, emphasizing:
 
 ## Hobbies
 I like to kayak to and camp on the offshore islands of Ireland. 
+
 I play guitar and vibrate my vocal cords at the same time.
