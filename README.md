@@ -5,7 +5,7 @@ Junior Full Stack Developer
 
 After four successful years working in video production, I wanted a new challenge, and pursuing my interest in software has been the best decision of my life. I graduated Makers Academy in September 2017, and am now looking forward to joining an innovative team of brilliant developers where I can apply my new knowledge of web development while I learn all that I can. 
 
-## What Projects am I most proud of?
+## The Projects I am most proud of
 For a complete list, see my [GitHub](https://github.com/EOSullivanBerlin?tab=repositories).
 
 | Project   | Description | Technologies |
