@@ -32,9 +32,14 @@ I have always been interested in science and technology . At the age of sixteen 
 To remedy this I pursued a career in film. I learned a great deal about how to communicate ideas through storytelling. However, over time I realised that I missed the challenge of solving novel problems. Luckily, this Goldilocks tale has a happy ending because I discovered coding which excites both hemispheres of my brain.
 
 ## Education 
-A 12-week intensive development bootcamp with Makers Academy
-First Class Honours Video and Sound Production from Salford University 
-Upper Second Class Honours in Microbiology from NUIG
+Makers Academy (July 2017 to September 2017)
+A 12-week intensive development bootcamp, emphasising: -Pair-Programming -Test Driven Development -Object Oriented Design
+* Ruby, Rails, Javascript, Node.js, Angular.js
+* Rspec, Jasmine, Mocha
+Salford University (2010 – 2013)
+* Video and sound production(BA) 1.1
+National University of Ireland Galway (2006 to 2010)
+* Microbiology, BsE (Hons) 2.1
 
 ## Experience
 #### Simpleshow (2015 to Present)    
