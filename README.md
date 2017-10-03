@@ -27,9 +27,9 @@ A large part of my motivation for changing my career was to challenge myself and
 Agile was a completely new concept to me starting Makers - I am a new convert. I want to work in a company that believes in and implements these methodologies.	
 
 ## Why did I become a programer
-I have always been interested in science and technology . At the age of sixteen I won second place for Biology in the BT Irish Young Scientist Award. I designed and conducted a population study of mosquitos in the marshes around my house (I was a strange child). I went on to study Microbiology in University where I had some of the best experiences of my life tinkering with microbe genes. Perhaps it was the way undergraduates are taught but I felt that my creative side was being over-looked. 
+I have always been interested in science and technology . At the age of sixteen I won second place for Biology in the BT Irish Young Scientist Award. I designed and conducted a population study of mosquitos in the marshes around my house (I was a strange child). I went on to study Microbiology in University where I had a great time tinkering with microbe genes. Perhaps it was the way undergraduates are taught but I felt that my creative side was being over-looked. 
 
-To remedy this I pursued a career in film. I learned a great deal about how to communicate ideas through storytelling. However, over time I realised that I missed the challenge of solving novel problems. Luckily, this Goldilocks tale has a happy ending because I discovered coding which excites both hemispheres of my brain.
+To remedy this I pursued a career in film. Where I learned a great deal about how to communicate ideas through storytelling. However, over time I realised that I missed the challenge of solving novel problems. Luckily, this Goldilocks tale has a happy ending because I discovered coding which excites both hemispheres of my brain.
 
 ## Education 
 Makers Academy (July 2017 to September 2017)
