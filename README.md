@@ -10,24 +10,24 @@ For a complete list, see my [GitHub](https://github.com/EOSullivanBerlin?tab=rep
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Commandos](https://github.com/EOSullivanBerlin/commandos) | A bash tool for developers. Users can us the terminal as normal while reciving usfull tips related to the commands they type. | Ruby, Shell, RSpec, Aruba |
+| [Commandos](https://github.com/EOSullivanBerlin/commandos) | A bash tool for developers. Users can use the terminal as normal while receiving useful tips related to the commands they type. | Ruby, Shell, RSpec, Aruba |
 |[Evil Notes](https://github.com/EOSullivanBerlin/notes-app)| A single page web app that allows a user to make notes. No libraries were used and we created our own testing framwork. | Javascript|
 |[Acebook](https://github.com/EOSullivanBerlin/acebook-remote-july-2017)| A group project to clone Facebook. It was a great experience of working with Agile methodologies. | Ruby, Rails, PostgreSQL|
-|[Love Me Tinder](https://github.com/EOSullivanBerlin/love-me-tinder)| A Dating Game. Users try and capture their hearts desires. | Javascript, Jasmine|
+|[Love Me Tinder](https://github.com/EOSullivanBerlin/love-me-tinder)| A Dating Game. Users try and capture their heart's desires. | Javascript, Jasmine|
 
 ## Skills
 
 #### Problem solving
-I am confident that new syntax and frame works can be picked up quickly and easily. However, a good programer is distinguished from a bad one by their approach to problem solving. Test Driven Development is my compass when I have a programing problem to solve. I ardently follow the red, green and refactor cycle and when the days work is done I look upon my clean and well tested code with pride.
+I am confident that new syntax and frame works can be picked up quickly and easily. However, a good programer is distinguished from a bad one by their approach to problem solving. Test-Driven Development is my compass when I have a programing problem to solve. I ardently follow the red, green and refactor cycle and when the days work is done I look upon my clean and well tested code with pride.
 
 #### Quick Study 
-A large part of my motivation for changing my career was to challenge myself and learn something new. The learning curve at Makers was steep (just the way I like it) and three programming languages, four web frame-works, numerous testing frame-works and a philosophy for code craftsmanship and team work later and I can report that I have barely whet my appetite.
+A large part of my motivation for changing my career was to challenge myself and learn something new. The learning curve at Makers was steep (just the way I like it) and three programming languages, four web frame-works, numerous testing frameworks and a philosophy for code craftsmanship and team work later and I can report that I have barely whet my appetite.
 
 #### Philosophy
 Agile was a completely new concept to me starting Makers - I am a new convert. I want to work in a company that believes in and implements these methodologies.	
 
 ## Why did I become a programer
-I have always been interested in science and technology . At the age of sixteen I won second place for Biology in the BT Irish Young Scientist Award. I designed and conducted a population study of mosquitos in the marshes around my house (I was a strange child). I went on to study Microbiology in University where I had a great time tinkering with microbe genes. Perhaps it was the way undergraduates are taught but I felt that my creative side was being over-looked. 
+I have always been interested in science and technology. At the age of sixteen I won second place for Biology in the BT Irish Young Scientist Award. I designed and conducted a population study of mosquitos in the marshes around my house (I was a strange child). I went on to study Microbiology in University where I had a great time tinkering with microbe genes. Perhaps it was the way undergraduates are taught but I felt that my creative side was being overlooked. 
 
 To remedy this I pursued a career in film. Where I learned a great deal about how to communicate ideas through storytelling. However, over time I realised that I missed the challenge of solving novel problems. Luckily, this Goldilocks tale has a happy ending because I discovered coding which excites both hemispheres of my brain.
 
