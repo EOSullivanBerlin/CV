@@ -13,7 +13,6 @@ For a complete list, see my [GitHub](https://github.com/EOSullivanBerlin?tab=rep
 | [Commandos](https://github.com/EOSullivanBerlin/commandos) | A bash tool for developers. Users can use the terminal as normal while receiving useful tips related to the commands they type. | Ruby, Shell, RSpec, Aruba |
 |[Evil Notes](https://github.com/EOSullivanBerlin/notes-app)| A single page web app that allows a user to make notes. No libraries were used and we created our own testing framwork. | Javascript|
 |[Acebook](https://github.com/EOSullivanBerlin/acebook-remote-july-2017)| A group project to clone Facebook. It was a great experience of working with Agile methodologies. | Ruby, Rails, PostgreSQL|
-|[Love Me Tinder](https://github.com/EOSullivanBerlin/love-me-tinder)| A Dating Game. Users try and capture their heart's desires. | Javascript, Jasmine|
 
 ## Skills
 
