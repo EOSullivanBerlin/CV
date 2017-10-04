@@ -51,4 +51,4 @@ National University of Ireland Galway (2006 to 2010)
 *Manager*  
 
 ## Hobbies
-I like to kayak to and camp on the offshore islands of Ireland. 
+I like to kayak to and camp on the off-shore islands of Ireland. 
